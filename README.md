@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bahaa!
 
-🎓 **1st-Year Cybersecurity Student** at University College.
+🎓 **1st-Year Cybersecurity Student** atUniversity College of Applied Sciences - Gaza.
 🚀 Passionate about **Information Security**, **Ethical Hacking**, and **Artificial Intelligence**.
 
 ---
